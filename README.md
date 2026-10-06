@@ -1,4 +1,4 @@
-# `.github` — профиль организации Stancore Studio
+﻿# `.github` — профиль организации Stancore Studio
 
 Этот репозиторий управляет **витриной организации** на GitHub.
 
@@ -8,8 +8,8 @@
 profile/README.md
 ```
 
-После пуша в `Stancore-Studio/.github` содержимое появляется на:
+После пуша в `StancoreStudio/.github` содержимое появляется на:
 
-https://github.com/Stancore-Studio
+https://github.com/StancoreStudio
 
 Метаданные для Settings организации — в `org-profile.md`.
